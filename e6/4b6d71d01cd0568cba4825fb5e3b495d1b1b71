@@ -1,0 +1,16 @@
+test-ips/orange-site/fly.toml
+  h_47bf5c380f00d8 21-22
+test-ips/purple-site/fly.toml
+  h_47bf5c380f00d8 21-22
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "e64b6d71d01cd0568cba4825fb5e3b495d1b1b71",
+  "prompts": {},
+  "humans": {
+    "h_47bf5c380f00d8": {
+      "author": "Julia Evans <julia@jvns.ca>"
+    }
+  }
+}
